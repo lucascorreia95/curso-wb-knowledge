@@ -1,3 +1,11 @@
 module.exports = {
-    authSecret: ''
+    authSecret: '',
+    db: {
+        host: '',
+        port: 1234,
+        database: '',
+        user: '',
+        password: ''
+    },
+    mongoURL: ''
 }
