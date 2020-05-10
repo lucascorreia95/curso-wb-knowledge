@@ -10,7 +10,7 @@ export default {
 }
 </script>
 
-<style scoped>
+<style>
     .content {
         grid-area: content;
         background-color: #efefef;

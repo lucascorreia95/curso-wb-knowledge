@@ -10,7 +10,7 @@ export default {
 }
 </script>
 
-<style scoped>
+<style>
     .footer {
         grid-area: footer;
         background-color: #DDD;

@@ -13,7 +13,7 @@ export default {
 }
 </script>
 
-<style scoped>
+<style>
     .page-title h1 {
         margin: 0px;
     }
